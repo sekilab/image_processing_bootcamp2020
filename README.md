@@ -23,7 +23,6 @@ Ash
 Go Sato
 
 - **Paper**:  
-
 Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras
 
 - **Content**:  
