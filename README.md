@@ -30,3 +30,15 @@ In [this pptx](https://drive.google.com/file/d/1udowA_HujBPsCEz9G390hxm0whi4CT51
 
 
 
+## Session 4
+- **Date**:  
+2020/05/28(Thu)10:00-11:00
+
+- **Speaker**:  
+Ash
+
+- **Paper**:  
+ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks
+
+- **Content**:  
+In [this PDF](https://drive.google.com/file/d/1mAnudOH7Rkgzqhl1e1jxzZzzoGBOp2Um/view?usp=sharing)
