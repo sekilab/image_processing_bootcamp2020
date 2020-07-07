@@ -42,3 +42,28 @@ ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks
 
 - **Content**:  
 In [this PDF](https://drive.google.com/file/d/1mAnudOH7Rkgzqhl1e1jxzZzzoGBOp2Um/view?usp=sharing)
+
+## Session 6
+
+- **Date**:  
+
+- **Speaker**:  
+Nakamura
+
+- **Paper**:  
+
+- **Content**:  
+
+
+## Session 7
+
+- **Date**:  
+2020/07/09 (Thu) 10:00-11:00
+
+- **Speaker**:  
+Maeda
+
+- **Paper**:  
+Warburg, F., Hauberg, S., López-Antequera, M., Gargallo, P., Kuang, Y., & Civera, J. (2020). Mapillary Street-Level Sequences: A Dataset for Lifelong Place Recognition. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 2626-2635).
+
+- **Content**:  
