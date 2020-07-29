@@ -68,3 +68,18 @@ Warburg, F., Hauberg, S., López-Antequera, M., Gargallo, P., Kuang, Y., & Civer
 
 - **Content**:  
 [matrials](https://drive.google.com/drive/folders/1Pr6-efOAxusyCbqHB5buX8ILW_obUoVA?usp=sharing)
+
+
+## Session 8
+
+- **Date**:  
+2020/07/30 (Thu) 10:00-11:00
+
+- **Speaker**:  
+Miyoshi
+
+- **Paper**:  
+[Alex H. Lang, Sourabh Vora, Holger Caesar, Lubing Zhou, Jiong Yang, Oscar Beijbom (2018). PointPillars: Fast Encoders for Object Detection from Point Clouds.](https://arxiv.org/abs/1812.05784) CVPR 2019.
+
+- **Content**:  
+[matrials](https://docs.google.com/presentation/d/1gvMtdDTQNRKfPQZGJvdARI_-yvA-GRk7VGG5BH3Um1E/edit?usp=sharing)
