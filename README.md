@@ -67,7 +67,7 @@ Maeda
 Warburg, F., Hauberg, S., López-Antequera, M., Gargallo, P., Kuang, Y., & Civera, J. (2020). Mapillary Street-Level Sequences: A Dataset for Lifelong Place Recognition. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 2626-2635).
 
 - **Content**:  
-[matrials](https://drive.google.com/drive/folders/1Pr6-efOAxusyCbqHB5buX8ILW_obUoVA?usp=sharing)
+[materials](https://drive.google.com/drive/folders/1Pr6-efOAxusyCbqHB5buX8ILW_obUoVA?usp=sharing)
 
 
 ## Session 8
@@ -82,4 +82,4 @@ Miyoshi
 [Alex H. Lang, Sourabh Vora, Holger Caesar, Lubing Zhou, Jiong Yang, Oscar Beijbom (2018). PointPillars: Fast Encoders for Object Detection from Point Clouds.](https://arxiv.org/abs/1812.05784) CVPR 2019.
 
 - **Content**:  
-[matrials](https://docs.google.com/presentation/d/1gvMtdDTQNRKfPQZGJvdARI_-yvA-GRk7VGG5BH3Um1E/edit?usp=sharing)
+[materials](https://docs.google.com/presentation/d/1gvMtdDTQNRKfPQZGJvdARI_-yvA-GRk7VGG5BH3Um1E/edit?usp=sharing)
