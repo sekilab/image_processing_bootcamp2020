@@ -98,7 +98,7 @@ Sohn, Kihyuk, et al. "Fixmatch: Simplifying semi-supervised learning with consis
 
 
 - **Content**:  
-[materials](https://drive.google.com/drive/folders/1Pr6-efOAxusyCbqHB5buX8ILW_obUoVA?usp=sharing)
+[materials](https://drive.google.com/file/d/1s9rY7cPP1bSxhjc8_JmiN05RCjJxr8BL/view?usp=sharing)
 
 
 
