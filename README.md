@@ -83,3 +83,22 @@ Miyoshi
 
 - **Content**:  
 [materials](https://docs.google.com/presentation/d/1gvMtdDTQNRKfPQZGJvdARI_-yvA-GRk7VGG5BH3Um1E/edit?usp=sharing)
+
+
+## Session 7
+
+- **Date**:  
+2020/09/09 (Thu) 10:00-11:00
+
+- **Speaker**:  
+Maeda
+
+- **Paper**:  
+Sohn, Kihyuk, et al. "Fixmatch: Simplifying semi-supervised learning with consistency and confidence." arXiv preprint arXiv:2001.07685 (2020).
+
+
+- **Content**:  
+[materials](https://drive.google.com/drive/folders/1Pr6-efOAxusyCbqHB5buX8ILW_obUoVA?usp=sharing)
+
+
+
