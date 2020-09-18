@@ -29,7 +29,7 @@ Gergely
 2020/05/14(Thu)10:00-11:00
 
 - **Speaker**:  
-Go Sato
+Sato
 
 - **Paper**:  
 Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras
@@ -116,7 +116,7 @@ Sohn, Kihyuk, et al. "Fixmatch: Simplifying semi-supervised learning with consis
 2020/09/24 (Thu) 10:00-11:00
 
 - **Speaker**:  
-Go Sato
+Sato
 
 - **Paper**:  
 
