@@ -68,7 +68,7 @@ Nakamura
 - **Date**:  
 2020/06/25(Thu)10:00-11:00
 
-Canceled
+- Canceled
 
 ## Session 7
 
