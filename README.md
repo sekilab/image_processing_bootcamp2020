@@ -10,6 +10,8 @@ A laboratory study session on image processing.
 - **Speaker**:  
 Ash
 
+- **Content**:  
+https://github.com/sekilab/image_processing_bootcamp2019/tree/master/mli_session1
 
 ## Session 2
 - **Date**:  
@@ -17,6 +19,9 @@ Ash
 
 - **Speaker**:  
 Gergely
+
+- **Content**:  
+https://github.com/sekilab/image_processing_bootcamp2019/tree/master/mli_session2
 
 
 ## Session 3
