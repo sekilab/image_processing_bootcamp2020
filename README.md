@@ -64,7 +64,7 @@ Nakamura
 [materials](https://drive.google.com/file/d/14Z183gjj9LdqDnS3eysEIKii3x0zbVXk/view?usp=sharing)
 
 
-## Session 6
+## Session 7
 
 - **Date**:  
 2020/07/09 (Thu) 10:00-11:00
@@ -79,7 +79,7 @@ Warburg, F., Hauberg, S., López-Antequera, M., Gargallo, P., Kuang, Y., & Civer
 [materials](https://drive.google.com/drive/folders/1Pr6-efOAxusyCbqHB5buX8ILW_obUoVA?usp=sharing)
 
 
-## Session 7
+## Session 8
 
 - **Date**:  
 2020/07/30 (Thu) 10:00-11:00
@@ -94,7 +94,7 @@ Miyoshi
 [materials](https://docs.google.com/presentation/d/1gvMtdDTQNRKfPQZGJvdARI_-yvA-GRk7VGG5BH3Um1E/edit?usp=sharing)
 
 
-## Session 8
+## Session 9
 
 - **Date**:  
 2020/09/10 (Thu) 10:00-11:00
@@ -110,7 +110,7 @@ Sohn, Kihyuk, et al. "Fixmatch: Simplifying semi-supervised learning with consis
 [materials](https://drive.google.com/file/d/1s9rY7cPP1bSxhjc8_JmiN05RCjJxr8BL/view?usp=sharing)
 
 
-## Session 9
+## Session 10
 
 - **Date**:  
 2020/09/24 (Thu) 10:00-11:00
