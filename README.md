@@ -63,6 +63,12 @@ Nakamura
 - **Content**:  
 [materials](https://drive.google.com/file/d/14Z183gjj9LdqDnS3eysEIKii3x0zbVXk/view?usp=sharing)
 
+## Session 6
+
+- **Date**:  
+2020/06/25(Thu)10:00-11:00
+
+Canceled
 
 ## Session 7
 
