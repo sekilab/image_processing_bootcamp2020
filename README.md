@@ -11,7 +11,7 @@ A laboratory study session on image processing.
 Ash
 
 - **Content**:  
-https://github.com/sekilab/image_processing_bootcamp2019/tree/master/mli_session1
+[materials](https://github.com/sekilab/image_processing_bootcamp2019/tree/master/mli_session1)
 
 ## Session 2
 - **Date**:  
@@ -21,7 +21,7 @@ https://github.com/sekilab/image_processing_bootcamp2019/tree/master/mli_session
 Gergely
 
 - **Content**:  
-https://github.com/sekilab/image_processing_bootcamp2019/tree/master/mli_session2
+[materials](https://github.com/sekilab/image_processing_bootcamp2019/tree/master/mli_session2)
 
 
 ## Session 3
@@ -61,7 +61,7 @@ In [this PDF](https://drive.google.com/file/d/1mAnudOH7Rkgzqhl1e1jxzZzzoGBOp2Um/
 Nakamura
 
 - **Content**:
-https://drive.google.com/file/d/14Z183gjj9LdqDnS3eysEIKii3x0zbVXk/view?usp=sharing
+[materials](https://drive.google.com/file/d/14Z183gjj9LdqDnS3eysEIKii3x0zbVXk/view?usp=sharing)
 
 
 ## Session 6
