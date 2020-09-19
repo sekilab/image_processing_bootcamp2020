@@ -68,7 +68,7 @@ Nakamura
 - **Date**:  
 2020/06/25(Thu)10:00-11:00
 
-- Canceled
+- Cancelled
 
 ## Session 7
 
@@ -131,7 +131,7 @@ Estimation for Autonomous Driving Applications. arXiv preprint
 arXiv:2004.05560.](https://arxiv.org/pdf/2004.05560.pdf)
 
 - **Content**:  
-In [this pptx](https://drive.google.com/file/d/1udowA_HujBPsCEz9G390hxm0whi4CT51/view?usp=sharing), P207-P229 is the Session 3 content.
+In [this pptx](https://drive.google.com/file/d/1udowA_HujBPsCEz9G390hxm0whi4CT51/view?usp=sharing), P207-P229 is the Session 10 content.
 
 
 
