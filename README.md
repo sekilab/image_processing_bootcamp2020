@@ -125,7 +125,10 @@ Sohn, Kihyuk, et al. "Fixmatch: Simplifying semi-supervised learning with consis
 Sato
 
 - **Paper**:  
-
+Xue, F., Zhuo, G., Huang, Z., Fu, W., Wu, Z., & Ang Jr, M. H. (2020).
+Toward Hierarchical Self-Supervised Monocular Absolute Depth
+Estimation for Autonomous Driving Applications. arXiv preprint
+arXiv:2004.05560.
 
 - **Content**:  
 In [this pptx](https://drive.google.com/file/d/1udowA_HujBPsCEz9G390hxm0whi4CT51/view?usp=sharing), P207-P229 is the Session 3 content.
