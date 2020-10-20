@@ -148,6 +148,6 @@ segmentation approach.” 2018 IEEE intelligent vehicles symposium
 (IV). IEEE, 2018.](https://arxiv.org/pdf/1802.05591.pdf)
 
 - **Content**:  
-In [this pptx](https://drive.google.com/file/d/1zMxIGGctzYd1Sa54EchTy0NDGk5F2hw6/view?usp=sharing), P26-P39 is the Session 10 content.
+In [this pptx](https://drive.google.com/file/d/1zMxIGGctzYd1Sa54EchTy0NDGk5F2hw6/view?usp=sharing), P27-P39 is the Session 10 content.
 
 
