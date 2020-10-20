@@ -134,4 +134,21 @@ arXiv:2004.05560.](https://arxiv.org/pdf/2004.05560.pdf)
 In [this pptx](https://drive.google.com/file/d/1udowA_HujBPsCEz9G390hxm0whi4CT51/view?usp=sharing), P207-P229 is the Session 10 content.
 
 
+## Session 10
+
+- **Date**:  
+2020/10/22 (Thu) 10:00-11:00
+
+- **Speaker**:  
+Sato
+
+- **Paper**:  
+[Xue, F., Zhuo, G., Huang, Z., Fu, W., Wu, Z., & Ang Jr, M. H. (2020).
+Toward Hierarchical Self-Supervised Monocular Absolute Depth
+Estimation for Autonomous Driving Applications. arXiv preprint
+arXiv:2004.05560.](https://arxiv.org/pdf/2004.05560.pdf)
+
+- **Content**:  
+In [this pptx](https://drive.google.com/file/d/1zMxIGGctzYd1Sa54EchTy0NDGk5F2hw6/view?usp=sharing), P26-P39 is the Session 10 content.
+
 
