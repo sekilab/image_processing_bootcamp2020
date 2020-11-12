@@ -134,7 +134,7 @@ arXiv:2004.05560.](https://arxiv.org/pdf/2004.05560.pdf)
 In [this pptx](https://drive.google.com/file/d/1udowA_HujBPsCEz9G390hxm0whi4CT51/view?usp=sharing), P207-P229 is the Session 10 content.
 
 
-## Session 10
+## Session 11
 
 - **Date**:  
 2020/10/22 (Thu) 10:00-11:00
@@ -148,6 +148,6 @@ segmentation approach.” 2018 IEEE intelligent vehicles symposium
 (IV). IEEE, 2018.](https://arxiv.org/pdf/1802.05591.pdf)
 
 - **Content**:  
-In [this pptx](https://drive.google.com/file/d/1zMxIGGctzYd1Sa54EchTy0NDGk5F2hw6/view?usp=sharing), P27-P39 is the Session 10 content.
+In [this pptx](https://drive.google.com/file/d/1zMxIGGctzYd1Sa54EchTy0NDGk5F2hw6/view?usp=sharing), P27-P39 is the Session 11 content.
 
 
