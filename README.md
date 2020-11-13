@@ -151,3 +151,13 @@ segmentation approach.” 2018 IEEE intelligent vehicles symposium
 In [this pptx](https://drive.google.com/file/d/1zMxIGGctzYd1Sa54EchTy0NDGk5F2hw6/view?usp=sharing), P27-P39 is the Session 11 content.
 
 
+## Session 5
+
+- **Date**:  
+2020/11/12(Thu)09:00-10:00
+
+- **Speaker**:  
+Nakamura
+
+- **Content**:  
+[materials](https://drive.google.com/file/d/1YBLR8RY1EJv3K2J_6PggRGDoTU3p8z1Q/view?usp=sharing)
