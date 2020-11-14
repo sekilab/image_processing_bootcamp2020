@@ -160,8 +160,7 @@ In [this pptx](https://drive.google.com/file/d/1zMxIGGctzYd1Sa54EchTy0NDGk5F2hw6
 Nakamura
 
 - **Paper**:  
-[Representing Scenes as Neural
-Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934.pdf)
+[Mildenhall, B., Srinivasan, P. P., Tancik, M., Barron, J. T., Ramamoorthi, R., & Ng, R. (2020). Nerf: Representing scenes as neural radiance fields for view synthesis. arXiv preprint arXiv:2003.08934.](https://arxiv.org/pdf/2003.08934.pdf)
 
 - **Content**:  
 [materials](https://drive.google.com/file/d/1YBLR8RY1EJv3K2J_6PggRGDoTU3p8z1Q/view?usp=sharing)
