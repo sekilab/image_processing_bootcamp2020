@@ -160,5 +160,19 @@ Nakamura
 - **Paper**:  
 [Mildenhall, B., Srinivasan, P. P., Tancik, M., Barron, J. T., Ramamoorthi, R., & Ng, R. (2020). Nerf: Representing scenes as neural radiance fields for view synthesis. arXiv preprint arXiv:2003.08934.](https://arxiv.org/pdf/2003.08934.pdf)
 
-- **Content**:  
+- **Content**:
 [materials](https://drive.google.com/file/d/1YBLR8RY1EJv3K2J_6PggRGDoTU3p8z1Q/view?usp=sharing)
+
+## Session 13
+
+- **Date**:
+2020/11/26 (Thu) 10:00-11:00
+
+- **Speaker**:
+Ash
+
+- **Paper**:
+[Carion, N., Massa, F., Synnaeve, G., Usunier, N., Kirillov, A., & Zagoruyko, S. (2020). End-to-End Object Detection with Transformers.  ECCV, 2020.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460205.pdf)
+
+- **Content**:
+In [this PDF](https://drive.google.com/file/d/1pU7m-6bvRfNKASlW5UfapGCgKwqkAV3c/view?usp=sharing)
