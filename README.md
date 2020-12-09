@@ -176,3 +176,17 @@ Ash
 
 - **Content**:
 In [this PDF](https://drive.google.com/file/d/1pU7m-6bvRfNKASlW5UfapGCgKwqkAV3c/view?usp=sharing)
+
+## Session 14
+
+- **Date**:
+2020/12/10 (Thu) 10:00-11:00
+
+- **Speaker**:
+Gergely
+
+- **Paper**:
+[Z. Wang,  L. Zheng,  Y. Liu,  and S. Wang,  “Towards real-time multi-object  tracking.  ECCV, 2020.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560103.pdf)
+
+- **Content**:
+[here](https://drive.google.com/file/d/1c5ZaziDhs9wdFKIgDXETkafSVgyQOs00/view?usp=sharing)
