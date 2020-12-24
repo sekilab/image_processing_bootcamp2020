@@ -190,3 +190,20 @@ Gergely
 
 - **Content**:
 [here](https://drive.google.com/file/d/1c5ZaziDhs9wdFKIgDXETkafSVgyQOs00/view?usp=sharing)
+
+
+## Session 14
+
+- **Date**:
+2020/12/24 (Thu) 10:00-11:00
+
+- **Speaker**:
+Miyoshi
+
+- **Paper**:
+[Y Zhou, J Huang, X Dai, L Luo, Z Chen, Yi Ma, HoliCity: A City-Scale Data Platform for Learning Holistic 3D Structures](https://arxiv.org/abs/2008.03286)
+
+- **Content**
+[here](https://docs.google.com/presentation/d/1q8PYKwAtAxbiUPSpkUjNL0HcWEIl9kHaQqtEOiVebpI/view)
+
+
