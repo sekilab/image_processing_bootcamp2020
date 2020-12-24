@@ -201,7 +201,7 @@ Gergely
 Miyoshi
 
 - **Paper**:
-[Y Zhou, J Huang, X Dai, L Luo, Z Chen, Yi Ma, HoliCity: A City-Scale Data Platform for Learning Holistic 3D Structures](https://arxiv.org/abs/2008.03286)
+[Zhou, Y., Huang, J., Dai, X., Luo, L., Chen, Z., & Ma, Y. (2020). HoliCity: A City-Scale Data Platform for Learning Holistic 3D Structures. arXiv preprint arXiv:2008.03286.](https://arxiv.org/abs/2008.03286)
 
 - **Content**
 [here](https://docs.google.com/presentation/d/1q8PYKwAtAxbiUPSpkUjNL0HcWEIl9kHaQqtEOiVebpI/view)
