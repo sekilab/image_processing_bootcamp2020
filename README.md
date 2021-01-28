@@ -192,7 +192,7 @@ Gergely
 [here](https://drive.google.com/file/d/1c5ZaziDhs9wdFKIgDXETkafSVgyQOs00/view?usp=sharing)
 
 
-## Session 14
+## Session 15
 
 - **Date**:
 2020/12/24 (Thu) 10:00-11:00
@@ -206,4 +206,29 @@ Miyoshi
 - **Content**
 [here](https://docs.google.com/presentation/d/1q8PYKwAtAxbiUPSpkUjNL0HcWEIl9kHaQqtEOiVebpI/view)
 
+
+## Session 16
+
+- **Date**:
+2021/01/28 (Thu) 10:00-11:00
+
+- **Speaker**:
+Maeda
+
+- **Paper**:
+[Schlegl, T., Seeböck, P., Waldstein, S. M., Schmidt-Erfurth, U., & Langs, G. (2017, June). 
+Unsupervised anomaly detection with generative adversarial networks to guide marker discovery. 
+In International conference on information processing in medical imaging (pp. 146-157). Springer, Cham.](https://arxiv.org/abs/1703.05921
+)
+
+- **Content**
+[here](https://docs.google.com/presentation/d/16zgnX5z-2q8XTKhD7DCg79n1_w3EPfZTs1QPPgqEqnQ/edit?usp=sharing)
+
+## Session 17
+
+- **Date**:
+2021/02/25 (Thu) 10:00-11:00
+
+- **Speaker**:
+Sato
 
