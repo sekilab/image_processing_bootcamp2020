@@ -203,7 +203,7 @@ Miyoshi
 - **Paper**:
 [Zhou, Y., Huang, J., Dai, X., Luo, L., Chen, Z., & Ma, Y. (2020). HoliCity: A City-Scale Data Platform for Learning Holistic 3D Structures. arXiv preprint arXiv:2008.03286.](https://arxiv.org/abs/2008.03286)
 
-- **Content**
+- **Content**:
 [here](https://docs.google.com/presentation/d/1q8PYKwAtAxbiUPSpkUjNL0HcWEIl9kHaQqtEOiVebpI/view)
 
 
@@ -221,7 +221,7 @@ Unsupervised anomaly detection with generative adversarial networks to guide mar
 In International conference on information processing in medical imaging (pp. 146-157). Springer, Cham.](https://arxiv.org/abs/1703.05921
 )
 
-- **Content**
+- **Content**:
 [here](https://docs.google.com/presentation/d/16zgnX5z-2q8XTKhD7DCg79n1_w3EPfZTs1QPPgqEqnQ/edit?usp=sharing)
 
 ## Session 17
@@ -231,4 +231,20 @@ In International conference on information processing in medical imaging (pp. 14
 
 - **Speaker**:
 Sato
+
+## Session 18
+
+- **Date**:
+2021/03/11 (Thu) 10:00-11:00
+
+- **Speaker**:
+Nakamura
+
+## Session 19
+
+- **Date**:
+2021/03/25 (Thu) 10:00-11:00
+
+- **Speaker**:
+Ash
 
