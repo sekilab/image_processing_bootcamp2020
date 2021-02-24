@@ -236,7 +236,7 @@ Sato
 [Roddick, T., Kendall, A., & Cipolla, R. (2018). Orthographic feature transform for monocular 3d object detection. arXiv preprint arXiv:1811.08188.](https://arxiv.org/abs/1811.08188)
 
 - **Content**:  
-In [this pptx](https://drive.google.com/file/d/1zMxIGGctzYd1Sa54EchTy0NDGk5F2hw6/view?usp=sharing), P110-P130 is the Session 17 content.
+In [this pptx](https://drive.google.com/file/d/1zMxIGGctzYd1Sa54EchTy0NDGk5F2hw6/view?usp=sharing), P109-P130 is the Session 17 content.
 
 
 ## Session 18
