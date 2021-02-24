@@ -232,6 +232,13 @@ In International conference on information processing in medical imaging (pp. 14
 - **Speaker**:
 Sato
 
+- **Paper**:  
+[Roddick, T., Kendall, A., & Cipolla, R. (2018). Orthographic feature transform for monocular 3d object detection. arXiv preprint arXiv:1811.08188.](https://arxiv.org/abs/1811.08188)
+
+- **Content**:  
+In [this pptx](https://drive.google.com/file/d/1zMxIGGctzYd1Sa54EchTy0NDGk5F2hw6/view?usp=sharing), P27-P39 is the Session 11 content.
+
+
 ## Session 18
 
 - **Date**:
