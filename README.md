@@ -251,12 +251,3 @@ Nakamura
 [Ling, Huan, et al. "Fast interactive object annotation with curve-gcn." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.](https://arxiv.org/abs/1903.06874)
 - **Content**:
 [here](https://drive.google.com/file/d/1puKeWu0kKVevbg97JXbQtot0Unr3mAe_/view?usp=sharing)
-
-## Session 19
-
-- **Date**:
-2021/03/25 (Thu) 10:00-11:00
-
-- **Speaker**:
-Ash
-
