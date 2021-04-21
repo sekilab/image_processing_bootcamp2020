@@ -9,7 +9,7 @@ A laboratory study session on image processing.
 Ash
 
 - **Content**:  
-[materials](https://github.com/sekilab/image_processing_bootcamp2019/tree/master/mli_session1)
+[materials (Lab Member Only)](https://github.com/sekilab/image_processing_bootcamp2019/tree/master/mli_session1)
 
 ## Session 2
 - **Date**:  
@@ -19,7 +19,7 @@ Ash
 Gergely
 
 - **Content**:  
-[materials](https://github.com/sekilab/image_processing_bootcamp2019/tree/master/mli_session2)
+[materials (Lab Member Only)](https://github.com/sekilab/image_processing_bootcamp2019/tree/master/mli_session2)
 
 
 ## Session 3
@@ -33,7 +33,7 @@ Sato
 Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras
 
 - **Content**:  
-In [this pptx](https://drive.google.com/file/d/1udowA_HujBPsCEz9G390hxm0whi4CT51/view?usp=sharing), P31-P61 is the Session 3 content.
+In [this pptx (Lab Member Only)](https://drive.google.com/file/d/1udowA_HujBPsCEz9G390hxm0whi4CT51/view?usp=sharing), P31-P61 is the Session 3 content.
 
 
 ## Session 4
