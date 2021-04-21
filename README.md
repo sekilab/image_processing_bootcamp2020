@@ -161,7 +161,7 @@ Nakamura
 [Mildenhall, B., Srinivasan, P. P., Tancik, M., Barron, J. T., Ramamoorthi, R., & Ng, R. (2020). Nerf: Representing scenes as neural radiance fields for view synthesis. arXiv preprint arXiv:2003.08934.](https://arxiv.org/pdf/2003.08934.pdf)
 
 - **Content**:
-[materials](https://drive.google.com/file/d/1YBLR8RY1EJv3K2J_6PggRGDoTU3p8z1Q/view?usp=sharing)
+[materials (Lab Member Only)](https://drive.google.com/file/d/1YBLR8RY1EJv3K2J_6PggRGDoTU3p8z1Q/view?usp=sharing)
 
 ## Session 13
 
@@ -222,7 +222,7 @@ In International conference on information processing in medical imaging (pp. 14
 )
 
 - **Content**:
-[here](https://docs.google.com/presentation/d/16zgnX5z-2q8XTKhD7DCg79n1_w3EPfZTs1QPPgqEqnQ/edit?usp=sharing)
+[here (Lab Member Only)](https://docs.google.com/presentation/d/16zgnX5z-2q8XTKhD7DCg79n1_w3EPfZTs1QPPgqEqnQ/edit?usp=sharing)
 
 ## Session 17
 
