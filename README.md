@@ -59,7 +59,7 @@ In [this PDF](https://drive.google.com/file/d/1mAnudOH7Rkgzqhl1e1jxzZzzoGBOp2Um/
 Nakamura
 
 - **Content**:  
-[materials](https://drive.google.com/file/d/14Z183gjj9LdqDnS3eysEIKii3x0zbVXk/view?usp=sharing)
+[materials (Lab Member Only)](https://drive.google.com/file/d/14Z183gjj9LdqDnS3eysEIKii3x0zbVXk/view?usp=sharing)
 
 ## Session 6
 
